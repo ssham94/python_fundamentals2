@@ -4,7 +4,7 @@ def negative(my_number):
     elif my_number < 0:
         return True
     else:
-        return "¯\_(ツ)_/¯"
+        return "¯\\_(ツ)_/¯"
 
 print(negative(5))
 print(negative(-1))
